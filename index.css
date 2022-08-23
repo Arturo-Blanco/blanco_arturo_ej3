@@ -4,7 +4,7 @@
 }
 .encabezado {
   margin: 1%;
-  width: 99vw;
+  width: 98vw;
   height: 20vh;
   background-color: blue;
 }
@@ -37,13 +37,13 @@
   background-color: yellow;
 }
 .div3 {
-  width: 25vw;
+  width: 26vw;
   height: 28vh;
   background-color: cyan;
   margin-right: 4%;
 }
 .div4 {
-  width: 25vw;
+  width: 26vw;
   height: 28vh;
   background-color: palevioletred;
 }
